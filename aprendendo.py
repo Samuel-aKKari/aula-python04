@@ -8,7 +8,6 @@ if a > b:
 else:
     print(f'{b} é o maior')
 '''
-from traceback import print_tb
 
 #2
 '''
